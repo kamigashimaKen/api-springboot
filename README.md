@@ -1,2 +1,2 @@
 # api-springboot
-Repositório de códigos com uso no Spring
+Repositório de códigos com uso do Spring Boot<JPA>
